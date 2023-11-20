@@ -1,0 +1,42 @@
+#Top_header {
+    background-image: url("stag_header.png");
+    color: rgb(39, 41, 54);
+    text-shadow: 1px 1px 6px rgb(255, 233, 136), 1px 1px 6px #ffccb0;
+    z-index: 1;
+}
+
+#navbartop {
+    position:relative;
+    z-index:9;
+}
+
+.aboutmeimg{
+    height: 400px;
+    width: 350px;
+    background-image: url(toon_me.png);
+}
+
+.aboutdoodle{
+    height: 450px;
+    width: 400px;
+    background-image: url(me_doodle.png);
+}
+.secondimg {
+    height: 300px;
+    width: 800px;
+    background-image: url(millipede_curl_small.png);
+}
+
+.secondimgabout {
+    height: 120px;
+    width: 800px;
+    background-image: url(target_beetle_small.png);
+}
+
+#under-links :hover {
+    color: red;
+}
+
+#body-id {
+    color: rgb(117, 30, 30);
+}
